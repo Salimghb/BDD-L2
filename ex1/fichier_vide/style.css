@@ -1,0 +1,30 @@
+table{
+	vertical-align:middle;
+	margin: auto;
+	border:none;
+	background-color:white;
+	text-align:center;
+	font-size:10px;
+}
+caption{
+	color:white;
+	background-color:#2ECEC6;
+	padding:90px;
+	font-size:40px;
+	margin-left: auto;
+	margin-right: auto;
+}
+td{
+	height:60px;
+	width:60px;
+}
+.standard{
+	background-color:white;
+}
+body{
+	background-color:#009A90;
+}
+.tache{
+	background-color:#2ECEC6;
+	border-radius:50px;
+}
